@@ -1,2 +1,3 @@
-# VormPinger
-Just a Pinger batch file
+# Vormrodo Tools
+IP Pinger und DDOS Tool
+Ping of Death!
